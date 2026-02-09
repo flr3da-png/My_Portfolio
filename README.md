@@ -36,7 +36,10 @@ Data Analyst focused on data quality, analysis, and building clear, reliable sol
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/flr3da-png"><img src="https://github-readme-stats.vercel.app/api?username=flr3da-png&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="flr3da-png's GitHub stats" /></a>
+<a href="https://github.com/flr3da-png">
+  <img src="https://github-readme-stats.vercel.app/api?username=flr3da-png&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffdd00&bg_color=1c1917&hide_border=true" 
+       alt="flr3da-png's GitHub stats" />
+</a>
 
 ### Support Me
 
