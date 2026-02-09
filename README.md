@@ -16,16 +16,15 @@ Data Analyst focused on data quality, analysis, and building clear, reliable sol
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg"
        alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" />
 </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" 
-       alt="Power BI" />
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg"
+       alt="Power BI" title="Power BI" width="36" height="36" />
 </a>
 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" 
-         alt="Tableau" title="Tableau" width="36" height="36" />
-  </a> 
-                  </p>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg"
+       alt="Tableau" title="Tableau" width="36" height="36" />
+</a>         </p>
                   
 
                 ### Socials
