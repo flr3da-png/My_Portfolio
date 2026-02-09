@@ -10,6 +10,7 @@ Data Analyst focused on data quality, analysis, and building clear, reliable sol
 *   🖥️  See my portfolio at [MyPortfolio](http://github.com/flr3da-png/Portfolio)
 *   ✉️  You can contact me at [flr3da@gmail.com](mailto:flr3da@gmail.com)
 *   🧠  I'm currently learning Data analysis
+*   👥  I'm looking to collaborate on interesting projects
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
