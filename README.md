@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Priscilla Emebo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Priscilla
 ========================================================================================================================================
 
 Data Analyst
@@ -6,8 +6,8 @@ Data Analyst
 
 Data Analyst focused on data quality, analysis, and building clear, reliable solutions using Power BI, SQL, and Excel.
 
-*   🌍  I'm based in UK
-*   🖥️  See my portfolio at [MyPortfolio](https://flr3da-png.github.io/My_Portfolio/)
+*   🌍  I'm based in London, UK
+*   🖥️  See my portfolio at [MyPortfolio](https://Priscilla-Chy.github.io/My_Portfolio/)
 *   ✉️  You can contact me at [flr3da@gmail.com](mailto:flr3da@gmail.com)
 *   🧠  I'm currently learning Data analysis
 *   👥  I'm looking to collaborate on interesting projects
