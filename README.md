@@ -7,7 +7,7 @@ Data Analyst
 Data Analyst focused on data quality, analysis, and building clear, reliable solutions using Power BI, SQL, and Excel.
 
 *   🌍  I'm based in UK
-*   🖥️  See my portfolio at [MyPortfolio](http://github.com/flr3da-png/Portfolio)
+*   🖥️  See my portfolio at [MyPortfolio](http://github.com/flr3da-png/My_Portfolio)
 *   ✉️  You can contact me at [flr3da@gmail.com](mailto:flr3da@gmail.com)
 *   🧠  I'm currently learning Data analysis
 *   👥  I'm looking to collaborate on interesting projects
